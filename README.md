@@ -20,4 +20,4 @@ Features:
 - Modern authentication system with JWT and cookie;
 - Search job, filter jobs by category and location;
 - Apply for a job in the single page job, if the user is already log In;
-- Toast notification;
+- Toast notifications;
